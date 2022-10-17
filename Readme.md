@@ -6,14 +6,14 @@
 功能： 随机把数据分割成训练集和测试集
 把数据转为tensor
 ## 1. nn
-抽象类：layer
+抽象类：layer  
 实现类：
 **Linear**
 **conv2**
 Batchnorm
 Maxpool
 dropout
-**父类：module**
+**父类：module**  
 module.show 绘图
 实现类： MLP
 **自定义层数：Sequential**
