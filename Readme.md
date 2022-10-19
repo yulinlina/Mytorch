@@ -1,4 +1,5 @@
 # Mytorch
+文档： https://www.yuque.com/yulinlin-rf5a0/xufwmr/xflqns  
 设计模式： OOP
 ## 模块设计
 ## 0. data
