@@ -2,5 +2,5 @@
 sort: 2
 ---
 
-# Mytorch .nn
+# Mytorch.nn
 

@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-
+# Con2d
 CLASS Mytorch.nn.Conv2d(module_name, intputChannal, outputChnnal, kernel_size, stride=1, padding=0))  
 
 实现卷积操作

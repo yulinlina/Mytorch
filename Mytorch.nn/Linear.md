@@ -2,6 +2,7 @@
 sort: 1
 ---
 
+# Linear
 
 CLASS Mytorch.nn.Linear(module_name: str, num_in, num_out)
 

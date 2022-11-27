@@ -1,7 +1,7 @@
 ---
 sort: 3
 ---
-
+# Activation_function
 ## 抽象类 Activation_function
 
 ```python
