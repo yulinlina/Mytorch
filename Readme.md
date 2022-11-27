@@ -7,4 +7,5 @@ This documentation is organized as followed:
 - [快速开始](https://yulinlina.github.io/Mytorch/Chinese/Chinese.html)  
 - [Mytorch.nn](https://yulinlina.github.io/Mytorch/Mytorch.nn.html)  
 - [Mytorch.data](https://yulinlina.github.io/Mytorch/Mytorch.data.html) 
+- [Mytorch.evaluator](https://yulinlina.github.io/Mytorch/Mytorch.evaluator;.html) 
 - [English Documentation](https://yulinlina.github.io/Mytorch/Chinese/English.html) 
