@@ -2,4 +2,4 @@
 sort: 2
 ---
 
-# Introduction
+# 快速入门
