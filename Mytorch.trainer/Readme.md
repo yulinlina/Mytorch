@@ -3,7 +3,7 @@ sort: 9
 ---
 
 # Trainer
-在trainer 封装了所有训练过程
+在trainer 封装了所有训练过程  
 ``` python
 from __future__ import print_function
 import time
