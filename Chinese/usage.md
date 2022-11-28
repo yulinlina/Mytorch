@@ -32,3 +32,4 @@ trainer.fit(model,data)
 Epoch: 10/10, loss: 0.009  train_acc: 0.999  test_acc: 0.969  examples/sec:94.9 
 ```
 ![output](../pictures/mlp_output.png)
+<iframe height=498 width=510 src="https://www.bilibili.com/video/BV1E14y1n7dh/?vd_source=77f197efc9e66a13ad8a2235a6cb34be">
