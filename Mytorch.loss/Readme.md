@@ -2,4 +2,4 @@
 sort: 7
 ---
 
-# Mytorch.evaluator
+# Mytorch.loss
