@@ -18,4 +18,5 @@ This documentation is organized as followed:
 - [English Documentation](https://yulinlina.github.io/Mytorch/Chinese/English.html)   
 ## 视频教程
 [demo](https://www.bilibili.com/video/BV1E14y1n7dh/?vd_source=77f197efc9e66a13ad8a2235a6cb34be)  
-[trainer](https://www.bilibili.com/video/BV1Y14y1n7HG/?vd_source=77f197efc9e66a13ad8a2235a6cb34be)
+[trainer](https://www.bilibili.com/video/BV1Y14y1n7HG/?vd_source=77f197efc9e66a13ad8a2235a6cb34be)  
+<iframe height=498 width=1100 src="https://www.bilibili.com/video/BV1E14y1n7dh/?vd_source=77f197efc9e66a13ad8a2235a6cb34be">
