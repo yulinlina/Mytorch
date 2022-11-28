@@ -2,4 +2,4 @@
 sort: 3
 ---
 
-# Mytorch.optim
+# Mytorch.tensor
