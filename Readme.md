@@ -25,5 +25,5 @@ This documentation is organized as followed:
 | pictures | 设计图和结果图 |
 
 ## 模块设计
-[设计图](https://yulinlina.github.io/Mytorch/Chinese.html)
+[设计图](https://yulinlina.github.io/Mytorch/Chinese)
 
