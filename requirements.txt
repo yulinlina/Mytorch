@@ -1,0 +1,4 @@
+numpy>=1.16.5 and <1.23.0
+schemdraw >=0.15
+scikit-learn >=1.0
+matplotlib >=3.4.2n
